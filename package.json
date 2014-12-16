@@ -1,0 +1,23 @@
+{
+  "name": "showtime-api",
+  "version": "0.0.0",
+  "description": "TV Shows API built in Node.js",
+  "main": "server.js",
+  "author": "Piotr Kulpinski",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piotrkulpinski/showtime-api"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "body-parser": "*",
+    "method-override": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
